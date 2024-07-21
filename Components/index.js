@@ -1,0 +1,11 @@
+export {default as CustomTabBar} from './CustomTabBar';
+export {default as TabBarCustomButton} from './TabBarCustomButton';
+export {default as HomeHeader} from './HomeHeader';
+export {default as MainCategories} from './MainCategories';
+export {default as ResturantsList} from './ResturantsList';
+export {default as ResturantHeader} from './ResturantHeader';
+export {default as FoodInfo} from './FoodInfo';
+export {default as OrderInfo} from './OrderInfo';
+export {default as DeliveryInfo} from './DeliveryInfo';
+export {default as DestinationHeader} from './DestinationHeader';
+export {default as Map} from './Map';
