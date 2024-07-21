@@ -6,7 +6,7 @@ import categoryData from '../fakers/CategoriesFaker.json';
 import initialCurrentLocation from '../fakers/CurrentLocationFaker.json';
 import restaurantData from '../fakers/ResturantsFaker.json';
 import priceRatings from '../fakers/PriceRatingFaker.json';
-import {HomeHeader, MainCategories, ResturantsList} from '../Components';
+import {HomeHeader, MainCategories, ResturantsList} from '../components';
 
 const getCategoryData = () => {
   return categoryData.map(category => ({

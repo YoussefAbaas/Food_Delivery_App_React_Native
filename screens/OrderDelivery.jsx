@@ -4,7 +4,7 @@ import React, {useEffect, useState} from 'react';
 import {useRoute} from '@react-navigation/native';
 import {Directions_API_KEY} from '../constants';
 import useFetchRoute from '../hooks/useFetchRoute';
-import {DeliveryInfo, DestinationHeader, Map} from '../Components';
+import {DeliveryInfo, DestinationHeader, Map} from '../components';
 
 const OrderDelivery = () => {
   const route = useRoute();

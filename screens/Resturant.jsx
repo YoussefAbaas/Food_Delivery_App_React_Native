@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {SafeAreaView} from 'react-native-safe-area-context';
-import {FoodInfo, OrderInfo, ResturantHeader} from '../Components';
+import {FoodInfo, OrderInfo, ResturantHeader} from '../components';
 import {useRoute} from '@react-navigation/native';
 
 const Resturant = () => {
